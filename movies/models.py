@@ -1,6 +1,7 @@
+# cambio de prueba para demostracion
+
 from django.db import models
 
-// Generos
 class Genre(models.Model):
     name = models.CharField(max_length=200)
 
