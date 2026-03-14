@@ -1,4 +1,4 @@
-# cambio de prueba para demostracion
+# CAMBIOS_GITHUB
 
 from django.db import models
 
@@ -7,5 +7,7 @@ class Genre(models.Model):
 
     def __str__(self):
         return self.name
+
+# CAMBIOS_GITHUB
 
 # Create your models here.
